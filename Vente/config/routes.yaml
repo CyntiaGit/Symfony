@@ -1,0 +1,7 @@
+index:
+    path: /menu
+    controller: App\Controller\ClientController::index
+
+menuClient:
+    path: /menuClient
+    controller: App\Controller\ClientController::menu_client
